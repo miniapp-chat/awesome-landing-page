@@ -838,13 +838,8 @@ a:focus, a:active {
 .logo-container .logo{
     overflow: hidden;
     border-radius: 50%;
-    border: 1px solid #333333;
     width: 200px;
     float: left;
-}
-
-.navbar-header.navbar-header {
-    float: right;
 }
 
 .logo-container .brand{
